@@ -1,0 +1,24 @@
+.venv/
+
+
+# Python artifacts
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.egg-info/
+pip-wheel-metadata/
+
+# Environment variables
+.env
+backend/.env
+
+# Build and distribution
+build/
+dist/
+
+# IDE files
+.idea/
+
+# Output data
+/data/output/
