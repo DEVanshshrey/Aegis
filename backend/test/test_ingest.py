@@ -1,5 +1,5 @@
 import json
-from ingest import DocumentIngester
+from src.ingest import DocumentIngester
 
 def run_sanity_checks():
     ingester = DocumentIngester()
